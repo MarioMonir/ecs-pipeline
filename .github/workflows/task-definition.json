@@ -40,7 +40,7 @@
     ],
     "family": "ingame-task",
     "executionRoleArn": "arn:aws:iam::307696370939:role/ecsTaskExecutionRole",
-    "networkMode": "awsvpc",
+    "networkMode": "host",
     "revision": 1,
     "volumes": [],
     "status": "ACTIVE",
